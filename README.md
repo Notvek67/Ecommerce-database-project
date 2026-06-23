@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an SQL-based E-Commerce Database Management System developed during my internship. It simulates the backend database of an online shopping platform by managing customers, products, orders, shipments, reviews, coupons, and shopping carts.
+This project is an SQL-based E-Commerce Database Management System developed during an internship. It simulates the backend database of an online shopping platform by managing customers, products, orders, shipments, reviews, coupons, and shopping carts.
 
 ## Technologies Used
 
@@ -21,7 +21,7 @@ This project is an SQL-based E-Commerce Database Management System developed dur
 * CASE Statements
 * Business Reporting Queries
 
-## Tables
+## Database Tables
 
 1. Users
 2. Customers
@@ -43,6 +43,22 @@ This project is an SQL-based E-Commerce Database Management System developed dur
 * Shipment Statistics
 * Order Delivery Time Analysis
 
+## Key SQL Concepts Implemented
+
+* Joins
+* GROUP BY and HAVING
+* Aggregate Functions
+* Views
+* Triggers
+* Window Functions
+* CASE Statements
+* Date Functions
+
+## Contributors
+
+* Vivek Yadav
+* Developed as part of an internship project.
+
 ## Author
 
-Vivek Yadav and team
+**Vivek Yadav**
