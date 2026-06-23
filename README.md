@@ -45,4 +45,4 @@ This project is an SQL-based E-Commerce Database Management System developed dur
 
 ## Author
 
-Vivek Yadav
+Vivek Yadav and team
